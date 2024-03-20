@@ -24,9 +24,8 @@ samples, guidance on mobile development, and a full API reference.
 <h1 align="left"></h1>
 
 <div align="center">
-  <img height="550" src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/9fe64e48-4221-49c1-88ec-61e5cc51d8da"  />
+  <img height="550"  src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/29af2273-3096-48f9-8f2d-1f9334cab515" />
 </div>
-
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/anatomy_ui/blob/master/lib/main.dart">-> 📂 Go To Dart File 📂 <-</a>
 </div>
@@ -38,7 +37,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1 align="left"></h1>
 
 <div align="center">
-  <img height="550" src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/29af2273-3096-48f9-8f2d-1f9334cab515"  />
+  <img height="550"  src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/9fe64e48-4221-49c1-88ec-61e5cc51d8da" />
 </div>
 
 <div align="center">
@@ -49,7 +48,7 @@ samples, guidance on mobile development, and a full API reference.
 <h3 align="center">3. Third Task</h3>
 <h1 align="left"></h1>
 <div align="center">
-  <img height="550" src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/e7e489f5-81ce-4360-a016-03767c54b7f7"  />
+  <img height="550"  src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/ae909dc2-14cc-4378-9059-4962dde0a7e9"/>
 </div>
 <div align="center">
 <a href="https://github.com/HirenCodeMaster11/anatomy_ui/blob/master/lib/ana_3.dart">-> 📂 Go To Dart File 📂 <-</a>
@@ -62,7 +61,7 @@ samples, guidance on mobile development, and a full API reference.
 <h1 align="left"></h1>
 
 <div align="center">
-  <img height="550" src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/ae909dc2-14cc-4378-9059-4962dde0a7e9"  />
+  <img height="550"  src="https://github.com/HirenCodeMaster11/anatomy_ui/assets/148859956/e7e489f5-81ce-4360-a016-03767c54b7f7"  />
 </div>
 
 <div align="center">
